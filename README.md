@@ -34,9 +34,6 @@
 <p align="justify">
 El <strong>Sistema de Gestión de Periódico Virtual</strong> es una aplicación desarrollada en Python que implementa múltiples patrones de diseño para resolver problemas comunes en la gestión de contenido editorial. Este proyecto demuestra la aplicación práctica de patrones creacionales, estructurales y de comportamiento en un contexto real.
 </p>
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/2C3E50/FFFFFF?text=Sistema+de+Periodico+Virtual" alt="Banner del Proyecto">
-</p>
 🎯 Objetivos del Proyecto
 <table>
 <tr>
@@ -60,3 +57,4 @@ Académicos
 </td>
 </tr>
 </table>
+
